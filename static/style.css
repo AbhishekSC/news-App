@@ -1,0 +1,18 @@
+/* body{
+    min-width: 664px;
+} */
+
+img{
+    height: 20rem;
+    /* width: 70vh; */
+}
+
+.weather-info{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    flex-direction: column;
+    justify-content: center;
+    width: 40rem;
+    margin: auto;
+}
